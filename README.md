@@ -1,7 +1,7 @@
 # GRAD-PROJ
 2025 Graduation Project
 
-Team Members:
+**Team Members**:
 - ِAbdelrahman Hatem
 - Ahmed Harmas
 - Mostafa Fawzy
@@ -9,3 +9,4 @@ Team Members:
 - Motwea Mohammed
 - Essam Ali
 
+**Supervisor**: Dr. Amr S. Ghoneim
